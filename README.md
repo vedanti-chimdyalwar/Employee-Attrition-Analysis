@@ -45,7 +45,7 @@ File: `data/employee_data.xlsx`
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](screenshot/screenshot.png)
 
 ---
 
