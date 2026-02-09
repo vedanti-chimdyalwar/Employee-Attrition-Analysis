@@ -44,7 +44,7 @@ File: `data/employee_data.xlsx`
 ---
 
 ## 🖼 Dashboard Preview
-![HR Analytics Dashboard](screenshot/screenshot.png)
+![HR Analytics Dashboard](screenshot/Screenshot.png)
 
 ---
 
