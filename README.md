@@ -44,8 +44,7 @@ File: `data/employee_data.xlsx`
 ---
 
 ## 🖼 Dashboard Preview
-
-![Dashboard](screenshots/dashboard_preview.png)
+https://github.com/vedanti-chimdyalwar/Employee-Attrition-Analysis/blob/main/screenshot/Screenshot.png
 
 ---
 
